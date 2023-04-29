@@ -3,7 +3,7 @@ import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 import {Link} from "react-router-dom";
 const navigation = [
-  { name: 'Home', href: '/ugli17', current: true },
+  { name: 'Home', href: '/ugli17/', current: true },
   { name: 'Products', href: '/ugli17/products', current: true },
   { name: 'About', href: '/ugli17/about', current: true },
   { name: 'We Also Make Sites', href: '/ugli17/site', current: true },
