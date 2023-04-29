@@ -1,5 +1,5 @@
 import Root from "./components/Root.js";
-import Products from "./components/Products";
+import Products from "./components/Products.js";
 import {createBrowserRouter , Route , RouterProvider , createRoutesFromElements} from "react-router-dom";
 import Home from "./components/Home.js";
 import About from "./components/About.js";
